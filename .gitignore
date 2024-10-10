@@ -1,0 +1,6 @@
+*
+!.gitignore
+!readme.md
+!requirements.txt
+!Dockerfile
+!route53_domain_updater.py
